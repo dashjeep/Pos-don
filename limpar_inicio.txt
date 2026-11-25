@@ -1,0 +1,1 @@
+esse arquivo serve para limpar credencias da steam e epic, ele deve ser executado no agendador de tarefas ao logon do windows.
